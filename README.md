@@ -28,7 +28,7 @@ Classes: Banana, Almond, Jute, Maize, Olives, Cherries
 Small and imbalanced dataset with a focus on exploring generalization under constraints
 ## Team
 - Tahsan Ul Alam (University of Iowa)
-- Sam Akerman-Knopf (University of Arkansas)
+- Sam Akerman-Knopf (University of Iowa)
 - Victoria Do (University of Arkansas)
 
 For more information, please refer to the project poster.
